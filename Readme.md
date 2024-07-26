@@ -2,7 +2,7 @@ Follow these steps to clone and run the application:
 
 ### 1. Clone the Repository
 
-Open your terminal and run the following command:
+Open your cmd and run the following command:
 
 git clone https://github.com/jktflm/BackendTask.git
 
@@ -11,7 +11,7 @@ git clone https://github.com/jktflm/BackendTask.git
 cd BackendTask\BackendTask
 
 ### 3. Run the Application
-Use the following command to run the application, specifying the number of requests (-n) and format (-f) as per your requirement:
+Use the following command to run the application, specifying the number of requests (-n) and format (-f):
 
 **Fetch 10 activities and save as JSON:**
 
@@ -25,9 +25,13 @@ dotnet run -- -n 5 -f csv
 
 dotnet run -- -n 15 -f console
 
-Additional Information
-File Outputs
+### Additional Information
+
+**File Outputs**
+
 JSON File: Saved as activities.json in the project directory.
+
 CSV File: Saved as activities.csv in the project directory.
+
 API Used
 The application uses the Bored API to fetch random activities.
