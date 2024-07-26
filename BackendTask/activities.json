@@ -1,0 +1,52 @@
+[
+  {
+    "activity": "Make a to-do list for your week",
+    "type": "busywork",
+    "participants": 1
+  },
+  {
+    "activity": "Have a jam session with your friends",
+    "type": "music",
+    "participants": 5
+  },
+  {
+    "activity": "Solve a Rubik's cube",
+    "type": "recreational",
+    "participants": 1
+  },
+  {
+    "activity": "Write a poem",
+    "type": "recreational",
+    "participants": 1
+  },
+  {
+    "activity": "Practice coding in your favorite lanaguage",
+    "type": "recreational",
+    "participants": 1
+  },
+  {
+    "activity": "Learn how to iceskate or rollerskate",
+    "type": "recreational",
+    "participants": 1
+  },
+  {
+    "activity": "Watch a Khan Academy lecture on a subject of your choosing",
+    "type": "education",
+    "participants": 1
+  },
+  {
+    "activity": "Learn the Chinese erhu",
+    "type": "music",
+    "participants": 1
+  },
+  {
+    "activity": "Learn how to iceskate or rollerskate",
+    "type": "recreational",
+    "participants": 1
+  },
+  {
+    "activity": "Watch a Khan Academy lecture on a subject of your choosing",
+    "type": "education",
+    "participants": 1
+  }
+]
